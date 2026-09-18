@@ -3,7 +3,7 @@
 
 int main() {
 double pi = 3.1416;
-double r = 6;  
+double r = 5;  
     printf("L'air du cercle = %f", pi*(r*r));
    printf("Le périmètre du cercle = %f", pi*(r+r));
 }
